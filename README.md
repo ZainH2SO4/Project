@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+<html>
+	<head>
+		<title>Curriculum Vitae</title>
+	</head>
+	
+	<body>
+	
+	<h1>Zain-Ul-Abideen | Curriculum Vitae</h1>
+	<h3>House No. 123 ABC Colony, XYZ City, 45987 | 03334561237 | ABC@XYZ.com </h3>
 
-You can use the [editor on GitHub](https://github.com/ZainH2SO4/Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+	<h2>Objective</h2>
+	<p>My aim is to become a good Software Developer. I am willing to provide my services from heart and soul. I am sincere in my field and I love it!</p>
+	
+	<h2>Skills & Abilities</h2>
+	<p>The Following languages are on my fingertips:</p>
+	<p>Java, html, C++, C#, Python, Nodejs</p>
+	
+	<h2>Experience</h2>
+	<p>I Worked in the <b>XYZ Company</B> From <b>11-11-2011 Date to 12-12-2013</b></p>
+	<p>Currently I am working in my own Software House for about <b>2 years</b> now</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZainH2SO4/Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	<h2>Education</h2>
+	<p>I got my <b>SSC</b> Level digree from <b>ABC Board</b> from <b>XYZ School</b></p>
+	<p>Then I got my <b>HSSC</b> Level digree from <b>ABC Board</b> from <b>XYZ College</b></p>
+	<p>And finally,  got my <b>Bachelor's</b> digree from <b>XYZ University</b></p>
+	
+	<h2>Short Courses</h2>
+	<p>I complete my <b>Networking</b> course from <b>ABC Institute</b>. I also did a short course of <b>Game Development</b> from <b>XYZ University</b></p>
+	
+	</body>
+</html>
